@@ -1,7 +1,7 @@
 @import "../../css/colors.css";
 
-$border-radius: 4px;
-$trim-handle-width: 12px;
+$border-radius: 5px;
+$trim-handle-width: 10px;
 $trim-handle-height: 14px;
 $stripe-size: 10px;
 $hover-scale: 2;
